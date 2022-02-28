@@ -1,0 +1,6 @@
+.todoItem{
+    border: 1px groove black;
+    background-color: turquoise;
+    margin: 20px;
+    padding: 20px;
+}
